@@ -1,1 +1,1 @@
-# content-cje-deployment
+Clean Jenkins, uname student password OmgPassword!
