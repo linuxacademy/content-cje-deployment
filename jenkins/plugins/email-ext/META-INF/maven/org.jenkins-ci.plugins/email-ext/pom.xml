@@ -35,7 +35,7 @@
         <workflow-job.version>2.11</workflow-job.version>
         <jenkins.version>2.7.3</jenkins.version>
         <workflow-api.version>2.11</workflow-api.version>
-        <workflow-cps.version>2.29</workflow-cps.version>
+        <workflow-cps.version>2.65</workflow-cps.version>
         <workflow-durable-task-step.version>2.11</workflow-durable-task-step.version>
         <workflow-basic-steps.version>2.4</workflow-basic-steps.version>
         <workflow-support.version>2.13</workflow-support.version>
